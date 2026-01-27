@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://portafolio-alejandro-sampablo-3xzx084ko.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-sampablo)
 
